@@ -54,7 +54,7 @@ h5 {
 }
 
 p {
-   background-color: var(--text-color);
+color: var(--text-color);
    border: 2px;
    padding: 10px;
    border-radius: 5px;
