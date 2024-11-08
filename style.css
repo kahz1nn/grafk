@@ -35,6 +35,12 @@ h2 {
 
 }
 
+h3 {
+    border: 2px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 nav {
     display: flex;
     justify-content: center;
